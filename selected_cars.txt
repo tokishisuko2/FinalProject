@@ -1,0 +1,6 @@
+Balance: $25938.0
+BMW 330Ci 2dr, Sedan, HP: 225
+BMW 330i 4dr, Sedan, HP: 225
+BMW 325i 4dr, Sedan, HP: 184
+BMW 325Ci convertible 2dr, Sedan, HP: 184
+BMW 330Ci convertible 2dr, Sedan, HP: 225
